@@ -1,3 +1,6 @@
+# Useful tools and services for finding vulnerabilities in a transaction to assess the risk of blockchain and various cryptocurrencies
+
+----
 
 <figure class="aligncenter"><img decoding="async" src="./Useful tools and services for finding vulnerabilities in a transaction to assess the risk of blockchain and various cryptocurrencies - CRYPTO DEEP TECH_files/028-1024x576.png" alt="Useful tools and services for finding vulnerabilities in a transaction to assess the risk of blockchain and various cryptocurrencies" class="wp-image-2009"></figure></div>
 
@@ -7,6 +10,14 @@
 
 
 <p>In this article, we have compiled a list of useful tools and services for tracking illegal activities, crypto threats, and finding vulnerabilities in blockchain transactions.&nbsp;Most of the services include a comprehensive hack monitoring platform and process algorithm for the security of crypto wallets.&nbsp;In cryptanalysis, the control and analysis of transactions is always important to us.&nbsp;These services are useful, firstly, for detecting financial crimes associated with crypto wallets, secondly, for combating money laundering and thirdly for crypto-phishing threats, as well as eliminating bugs, errors and vulnerabilities.</p>
+
+
+
+----
+
+* Tutorial: https://youtu.be/-s8Z6df_kxY
+* Tutorial: https://cryptodeeptech.ru/crypto-risk-scoring
+
 
 
 
